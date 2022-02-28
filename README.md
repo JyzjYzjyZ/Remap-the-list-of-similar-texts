@@ -27,7 +27,7 @@ import copy
 import gc
 import re
 import warnings
-import Levenshtein
+import Levenshtein [pip install Levenshtein]
 ```
 
 If you fail to install using pip, try conda
