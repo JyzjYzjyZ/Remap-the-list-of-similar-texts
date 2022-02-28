@@ -35,7 +35,7 @@ Calling the main function, debugBool means whether to output additional content 
 
 调用main函数，debugBool意味着是否输出额外的内容。过滤器函数定义比配元素的何种差异能被接受，列如相同的单词same相隔基准值多少会被视为无效值。通常使用常值函数
 
-<h3 style="color:Tomato;">!!!</h3>
+<h3 style="color:red;">!!!</h3>
 Under development for very different, or overly stringent filter functions. Cannot provide good support
 
 正在开发非常不同的，或过于严格的过滤器函数。不能提供良好的支持
