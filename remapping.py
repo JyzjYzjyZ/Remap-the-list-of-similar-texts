@@ -4,7 +4,11 @@ import re
 import warnings
 import Levenshtein
 # conda install python-Levenshtein
-
+'''
+author:goodjin5
+release:1.0
+date:Feb 28 ,2022
+'''
 
 sentences1 = ['DO YOU WANT TO SCULTIMATING CREATURES CHARACTERS BROPS ENVIRONMENTS BUTDONNO WORK TO START',
              'IF THAT IS THE CASE AND I WELCOME YOU TO NEXT SUTS COMPLETE GUIDE TO SEBURGH TWENTY TWENTY TWO',
