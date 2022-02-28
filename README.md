@@ -22,6 +22,7 @@ IT'S NOT BAD BUT IT GETS A LITTLE BIT CONFUSING.SO LET'S GO.
 <h2>installed </h2>
 
 ```
+python 3.9+
 import copy
 import gc
 import re
