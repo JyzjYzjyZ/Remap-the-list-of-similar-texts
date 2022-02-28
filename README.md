@@ -20,6 +20,7 @@ IT'S NOT BAD BUT IT GETS A LITTLE BIT CONFUSING.SO LET'S GO.
 ```
 
 <h2>installed </h2>
+
 ```
 import copy
 import gc
@@ -27,13 +28,14 @@ import re
 import warnings
 import Levenshtein
 ```
+
 If you fail to install using pip, try conda
 
 Calling the main function, debugBool means whether to output additional content or not. The filter function defines what differences in the matched elements will be accepted, e.g. how much of the same word same will be considered invalid when separated by a base value. Usually constant value functions are used
 
 调用main函数，debugBool意味着是否输出额外的内容。过滤器函数定义比配元素的何种差异能被接受，列如相同的单词same相隔基准值多少会被视为无效值。通常使用常值函数
 
-<h3 style="color:red">!!!</h3>
+<h3 style="color:Tomato;">!!!</h3>
 Under development for very different, or overly stringent filter functions. Cannot provide good support
 
 正在开发非常不同的，或过于严格的过滤器函数。不能提供良好的支持
